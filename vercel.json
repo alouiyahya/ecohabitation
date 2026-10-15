@@ -1,1 +1,1 @@
-{"cleanUrls":true,"headers":[{"source":"/(.*)","headers":[{"key":"X-Robots-Tag","value":"noindex, nofollow"}]}]}
+{"cleanUrls":true,"redirects":[{"source":"/(.*)","has":[{"type":"host","value":"monecohabitation.fr"}],"destination":"https://www.monecohabitation.fr/$1","permanent":true}]}
